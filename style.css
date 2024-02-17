@@ -3,6 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
+body{
+  background-color: gray;
+}
 .flex_container {
   display: flex;
   /* margin-left: 5rem; */
